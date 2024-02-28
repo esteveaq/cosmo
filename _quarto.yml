@@ -5,6 +5,7 @@ project:
 website:
   title: "Cosmo"
   navbar:
+    background: primary
     left:
       - href: index.qmd
         text: Home
